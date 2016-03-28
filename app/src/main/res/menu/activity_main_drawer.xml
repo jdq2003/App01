@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="西关" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="新城" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="城区" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="蓟县" />
+    </group>
+
+    <item android:title="选购">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="蔬菜" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="水果1" />
+            <item
+                android:title="水果2" />
+            <item
+                android:title="水果3" />
+            <item
+                android:title="水果4" />
+            <item
+                android:title="水果5" />
+            <item
+                android:title="水果6" />
+            <item
+                android:title="水果7" />
+            <item
+                android:title="水果8" />
+            <item
+                android:title="水果9" />
+            <item
+                android:title="水果0" />
+            <item
+                android:title="水果11" />
+        </menu>
+    </item>
+
+</menu>

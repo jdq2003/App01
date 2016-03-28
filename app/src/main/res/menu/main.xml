@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+
+        android:orderInCategory="200"
+        android:title="联系我们..."
+        app:showAsAction="never" />
+    <item
+
+        android:orderInCategory="200"
+        android:title="联系我们吧..."
+        app:showAsAction="never" />
+    <item
+
+        android:orderInCategory="200"
+        android:title="一定要联系..."
+        app:showAsAction="never" />
+</menu>
